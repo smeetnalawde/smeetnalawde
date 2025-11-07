@@ -1,21 +1,3 @@
-Hi, I’m **Smeet Nalawade** 👋  
-I’m a Data Science graduate student at **Stevens Institute of Technology**, passionate about building end-to-end data and machine learning systems that solve real-world problems.
-
-**What I do**
-- Machine Learning & Applied AI
-- Data Engineering & Big Data Pipelines (Spark, Hadoop)
-- Cloud & Database Systems (AWS, MongoDB, SQL)
-
-**Projects I’m proud of**
-- **Quantitative-Stock-Forecasting-System
-- ** Resource-Allocation-Optimization-and-Predictive-Analytics-for-Crime-and-Accidents-based-on-911-NYPD
-- **Weather Forecasting + Landslide Prediction** using ML analytics
-
-**What drives me**
-Turning abstract data into decisions that **create real impact**.
-
-**Let’s connect**
-🔗 LinkedIn: https://linkedin.com/in/smeetnalawade
 <h1 align="center">Hi, I'm Smeet Nalawade 👋</h1>
 <h3 align="center">Data Science @ Stevens Institute of Technology</h3>
 
@@ -34,13 +16,16 @@ I’m a Data Science graduate student at **Stevens** passionate about building *
 ---
 
 ### 🚀 Projects I’m Proud Of
-| Project | Description |
-|--------|-------------|
-| **ETF Recommender System** | Portfolio-based fund similarity using MongoDB + Cosine Similarity |
-| **Automated Fruit Grading System** | Computer vision powered grading system for agriculture supply chain |
-| **Weather Forecasting & Landslide Prediction** | ML-based disaster prediction and monitoring system |- **Quantitative-Stock-Forecasting-System
-- ** Resource-Allocation-Optimization-and-Predictive-Analytics-for-Crime-and-Accidents-based-on-911-NYPD
-- **Weather Forecasting + Landslide Prediction** using ML analytics
+
+| Project | Description | Tech Stack | Outcome |
+|--------|-------------|------------|---------|
+| **ETF Recommender System** | Built a recommender engine to identify structurally similar ETFs based on holdings overlap and weight distribution. Stored complete ETF master + holdings data in MongoDB for scalable querying. Computed similarity using Jaccard & Cosine metrics. | Python, Pandas, MongoDB, PyMongo, NumPy, SciPy | Successfully identified high-similarity ETF alternatives (e.g., IYY → ITOT/IWB/ILCB), enabling portfolio diversification and risk-aligned fund substitution. |
+| **Automated Fruit Grading System** | Designed a computer vision model to classify fruits by size, color, ripeness, and quality. Developed real-time inference pipeline and designed a UI interface for usage in market settings. | Python, OpenCV, TensorFlow/Keras, CNNs, Gradio | Improved grading accuracy to ~95%, helping automate manual labor and support fair pricing for farmers. Inspired by real agricultural challenges. |
+| **Weather Forecasting & Landslide Prediction** | Built predictive models for rainfall trends and integrated environmental indicators to forecast landslide risk. Conducted feature engineering and multi-model comparison. | Python, Pandas, Scikit-Learn, Random Forest, XGBoost, GIS Datasets | Achieved high predictive accuracy and demonstrated how data-driven alerts can support disaster prevention planning. |
+| **Quantitative Stock Forecasting System** | Developed an algorithmic forecasting system for stock price movements using time-series modeling + statistical indicators. Evaluated trend signals for trading decisions. | Python, NumPy, Pandas, yFinance API, Statsmodels, Scikit-Learn | Generated directional accuracy signals useful for backtesting trading strategies & understanding market volatility. |
+| **Crime Resource Allocation & Predictive Analytics (911 NYPD Dataset)** | Built a predictive pipeline to forecast emergency call hotspots and optimized patrol allocation for response efficiency. Conducted spatiotemporal analysis & visualization. | Python, R, ggplot2, dplyr, Pandas, Jupyter | Highlighted crime density patterns and demonstrated how data-driven deployment improves urban safety resource management. |
+| **Financial Stress & Default Risk Predictor (Satellite + ESG Data)** | Integrated satellite imagery + ESG features + financial indicators to estimate corporate credit deterioration risk. Applied feature encoding, dimensionality reduction, and gradient boosting models. | Python, XGBoost, Pandas, Scikit-Learn, Geospatial Imagery, ESG Data APIs | Built a multimodal model capable of improving early-warning risk detection for investment due diligence. |
+
 
 ---
 
