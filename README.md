@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I’m **Smeet Nalawade** 👋  
+I’m a Data Science graduate student at **Stevens Institute of Technology**, passionate about building end-to-end data and machine learning systems that solve real-world problems.
 
-<!--
-**smeetnalawde/smeetnalawde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I do**
+- Machine Learning & Applied AI
+- Data Engineering & Big Data Pipelines (Spark, Hadoop)
+- Cloud & Database Systems (AWS, MongoDB, SQL)
 
-Here are some ideas to get you started:
+**Projects I’m proud of**
+- **ETF Recommender System** using MongoDB + Cosine Similarity
+- **Automated Fruit Grading System** using Computer Vision & Deep Learning
+- **Weather Forecasting + Landslide Prediction** using ML analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**What drives me**
+Turning abstract data into decisions that **create real impact**.
+
+**Let’s connect**
+🔗 LinkedIn: https://linkedin.com/in/smeetnalawade
